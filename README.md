@@ -3,6 +3,8 @@
 课程地址 https://www.icourse163.org/learn/NJTU-1462091162?tid=1467147488#/learn/content
 
 课程代码只有空间域滤波和形态学处理两部分，为了方便代码部分只在MFCApplication1View.cpp文件中，自行替换即可。
+
+由于更改了卷积函数的形参，因此也要替换替换MFCApplication1View.h
 替换目录：MFCApplication1/
 
 **TODO:**
